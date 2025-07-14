@@ -5,4 +5,4 @@ I also interviewed NYC Health Acting Commissioner Dr. Michelle Morse to recieve 
 
 Key takeaways in the data are that vaccination rates in the city vary across vaccine type, race and neighborhood. 
 
-[Visit the webpage].
+[Visit the webpage](https://tgnewikow.github.io/NYC-childhood-vaccination/).
